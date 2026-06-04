@@ -15,4 +15,4 @@ Features:
 - Learning Progress Tracking
 - Sidebar Navigation
 
-Author: Poojitha
+Author: Bhargavi
